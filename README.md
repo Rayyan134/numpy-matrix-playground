@@ -33,21 +33,16 @@ This project helps build a strong foundation in NumPy and prepares for data scie
 
 ## Project Structure
 
-numpy-basics-toolkit/
+---
+numpy-basics/
 │
 ├── src/
-│   ├── __init__.py
 │   └── matrix_ops.py
-│
-├── tests/                      # (optional but professional)
-│   └── test_matrix_ops.py
 │
 ├── main.py
 ├── requirements.txt
 ├── README.md
-├── .gitignore
-└── LICENSE                    # (optional but recommended)
-
+└── .gitignore
 ---
 
 ## Installation
