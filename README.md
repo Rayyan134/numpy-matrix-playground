@@ -33,7 +33,7 @@ This project helps build a strong foundation in NumPy and prepares for data scie
 
 ## Project Structure
 
----
+```
 numpy-basics/
 │
 ├── src/
@@ -43,7 +43,7 @@ numpy-basics/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
----
+```
 
 ## Installation
 
